@@ -1,2 +1,3 @@
 # AS_-Mobile-application
-laba 1 https://github.com/KilldenHI/AS_-Mobile-application
+Лабораторная1 https://github.com/KilldenHI/AS_laba-1 (Защищена)
+Лабораторная2  (В процессе)
