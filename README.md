@@ -5,6 +5,6 @@
 ## Лабораторная4 https://github.com/KilldenHI/ru.mirea.Zherebtsov.Lesson4 (Защищена)
 ## Лабораторная5 https://github.com/KilldenHI/ru.mirea.Zherebtsov.Lesson5 (Можно проверить)
 ## Лабораторная6 https://github.com/KilldenHI/ru.mirea.Zherebtsov.Lesson6 (Можно проверить)
-## Лабораторная7
+## Лабораторная7 https://github.com/KilldenHI/ru.mirea.Zherebtsov.Lesson7 (Можно проверить)
 ## Лабораторная8
 ## MireaProject  https://github.com/KilldenHI/MireaProjectZherebtsov
